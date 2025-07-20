@@ -2,9 +2,15 @@
 
 Phân tích dữ liệu khoản vay vốn chủ sở hữu nhà (Home Equity Loan) sử dụng bộ dữ liệu HMEQ. Dự án tập trung vào việc khám phá, xử lý và phân tích các yếu tố ảnh hưởng đến khả năng vỡ nợ của người vay, hỗ trợ trong việc đánh giá rủi ro tín dụng.
 
+## Mục tiêu:
+- Hiểu rõ các yếu tố ảnh hưởng đến rủi ro tín dụng.
+- Hỗ trợ mô hình hóa dự đoán vỡ nợ trong tương lai.
+- Làm nền tảng cho các hệ thống đánh giá tín dụng.
+
 ## 📊 Giới thiệu bộ dữ liệu
 
 Bộ dữ liệu HMEQ gồm thông tin của **5.960 khoản vay**, với biến mục tiêu là `BAD` thể hiện việc người vay có vỡ nợ (1) hay không (0).
+Dữ liệu được thu thập từ Kaggle: https://www.kaggle.com/datasets/ajay1735/hmeq-data
 
 ### Các trường dữ liệu chính:
 
